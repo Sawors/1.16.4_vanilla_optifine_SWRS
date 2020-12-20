@@ -3,3 +3,5 @@ logs/
 screenshots/
 realm_persistence.json
 servers.dat_old
+usercache.json
+realms_persistence.json
